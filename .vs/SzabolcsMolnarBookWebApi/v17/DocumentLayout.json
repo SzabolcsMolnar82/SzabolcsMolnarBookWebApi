@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\szabolcsmolnarbookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:szabolcsmolnarbookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:00:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SzabolcsMolnarBookWebApi",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\SzabolcsMolnarBookWebApi.csproj",
+              "RelativeDocumentMoniker": "SzabolcsMolnarBookWebApi.csproj",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\SzabolcsMolnarBookWebApi.csproj",
+              "RelativeToolTip": "SzabolcsMolnarBookWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T18:59:47.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
