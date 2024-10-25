@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SzabolcsMolnarBookWebApi.props" />
+</Project>

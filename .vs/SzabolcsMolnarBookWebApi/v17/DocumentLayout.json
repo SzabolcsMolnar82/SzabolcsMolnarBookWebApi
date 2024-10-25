@@ -3,47 +3,310 @@
   "WorkspaceRootPath": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\szabolcsmolnarbookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:szabolcsmolnarbookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\postregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\postregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\migrations\\20241020171651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:migrations\\20241020171651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\putbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\putbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\postlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\postlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\putauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\putauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\getauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\getauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\dtos\\postbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:dtos\\postbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|c:\\users\\szabolcs\\source\\repos\\szabolcsmolnarbookwebapi\\obj\\debug\\net8.0\\szabolcsmolnarbookwebapi.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{48084E0D-DD7D-400D-AF02-3FD208D58065}|SzabolcsMolnarBookWebApi.csproj|solutionrelative:obj\\debug\\net8.0\\szabolcsmolnarbookwebapi.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T11:19:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:23:33.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostRegisterDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\PostRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:04:26.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Entities\\Author.cs",
+              "RelativeToolTip": "Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:35:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PutAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PutAuthorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PutAuthorDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PutAuthorDto.cs",
+              "RelativeToolTip": "DTOs\\PutAuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:52:44.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:42:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:15:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:49:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241020171651_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Migrations\\20241020171651_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241020171651_Initial.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Migrations\\20241020171651_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241020171651_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:16:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Context\\AppDbContext.cs",
               "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:00:56.223Z",
+              "WhenOpened": "2024-10-20T15:24:58.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SzabolcsMolnarBookWebApi",
-              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\SzabolcsMolnarBookWebApi.csproj",
-              "RelativeDocumentMoniker": "SzabolcsMolnarBookWebApi.csproj",
-              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\SzabolcsMolnarBookWebApi.csproj",
-              "RelativeToolTip": "SzabolcsMolnarBookWebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T18:59:47.273Z",
+              "DocumentIndex": 9,
+              "Title": "PutBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PutBookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PutBookDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PutBookDto.cs",
+              "RelativeToolTip": "DTOs\\PutBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:54:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\GetAuthorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\GetAuthorDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\GetAuthorDto.cs",
+              "RelativeToolTip": "DTOs\\GetAuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:42:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:48:03.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostBookDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostBookDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostBookDto.cs",
+              "RelativeToolTip": "DTOs\\PostBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:54:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SzabolcsMolnarBookWebApi.pdb",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\obj\\Debug\\net8.0\\SzabolcsMolnarBookWebApi.pdb",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\SzabolcsMolnarBookWebApi.pdb",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\obj\\Debug\\net8.0\\SzabolcsMolnarBookWebApi.pdb",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\SzabolcsMolnarBookWebApi.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-10-20T18:08:07.369Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3a31bb1c-9703-4bf8-821f-e2ec973d1a92",
+        "Display": 0,
+        "X": -6,
+        "Y": 0,
+        "Width": 873,
+        "Height": 847,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostLoginDto.cs",
+              "ToolTip": "C:\\Users\\szabolcs\\source\\repos\\SzabolcsMolnarBookWebApi\\DTOs\\PostLoginDto.cs",
+              "RelativeToolTip": "DTOs\\PostLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:07:40.891Z",
               "EditorCaption": ""
             }
           ]

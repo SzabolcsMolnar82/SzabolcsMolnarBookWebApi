@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzabolcsMolnarBookWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e15732ad26151988661760ce1313a9115f3b03a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SzabolcsMolnarBookWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SzabolcsMolnarBookWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
